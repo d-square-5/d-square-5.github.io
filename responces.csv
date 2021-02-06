@@ -1,0 +1,220 @@
+Index,Name,You lives in ,State,Age,pad_or_else,type_of_pad,way_of_disposal,dustbin_dispose,pads_per_day,is_menstrual_cycle_regular,period_days,days_between_period
+1,Shubhangi Sinha,Urban,Rajasthan,20,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,3,30
+2,Shivangi,Rural,Uttar Pradesh,18,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,4,28
+3,Jaya,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,6,35
+4,Pragati sengar,Rural,Uttar Pradesh,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,31
+5,Sneha ,Semi Urban,Rajasthan ,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,5,27
+6,Prachi dubey ,Urban,Uttar Pradesh,17,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,35
+7,Pooja ,Rural,Uttar Pradesh,16,Pad,Don't Know,Wrapping in paper/ Polythene,other,4,Yes,4,30
+8,Kajal Singh,Rural,Uttar Pradesh,21,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,28
+9,Monika Bhardwaj,Urban,Haryana,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,3,29
+10,Pallavi Kumari,Rural,Bihar,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,30
+11,Ridhima solet,Urban,Rajasthan ,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,6,20
+12,Diya,Semi Urban,Uttar Pradesh,17,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,4,27
+13,Vandana bhati ,Semi Urban,Rajasthan ,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,4,25
+14,Gunjan,Urban,Uttar Pradesh,16,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,6,33
+15,sejal gUttar Pradeshta,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,27
+16,Neha,Rural,Uttar Pradesh,23,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,28
+17,Neha,Rural,Uttar Pradesh,23,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,28
+18,Shalini gautam,Urban,Uttar Pradesh,21,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,4,28
+19,Neha,Rural,Uttar Pradesh,23,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,31
+20,Pankaj chauhan,Rural,Uttar Pradesh,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,6,Yes,4,29
+21,Bhavishi ,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,7,22
+22,Ankita Goswami ,Rural,Assam,20,Pad,Don't Know,Wrapping in paper/ Polythene,other,4,Yes,5,22
+23,Pankaj chauhan,Rural,Uttar Pradesh,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,6,Yes,4,29
+24,Manisha Kumari,Rural,Uttar Pradesh,15,Pad,Bio degradable,Wrapping in paper/ Polythene,other,4,Yes,5,28
+25,Kavya Katiyar,Rural,Uttar Pradesh,18,Pad,Bio degradable,Pad Disposal Machine,Nagar nigam Dustbin,3,Yes,4,24
+26,Megha sengar,Semi Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,4,29
+27,Vandana Kumari,Rural,Uttar Pradesh,15,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,5,30
+28,Deepti Katiyar ,Urban,Uttar Pradesh ,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,32
+29,Lata yadav,Semi Urban,Utter Pradesh,19,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,12,Yes,4,29
+30,Prabha,Urban,Rajasthan,43,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,30
+31,Sakshi Kashyap,Urban,Rajasthan,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,6,34
+32,Kashish tiwari ,Urban,Rajasthan ,20,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,7,31
+33,Pragya ,Urban,Madhya Pradesh,23,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,4,26
+34,Anjali ,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,other,1,Yes,4,30
+35,Isha GUttar Pradeshta,Urban,Bihar,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,28
+36,Priya Soni,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,30
+37,shikha yadav,Urban,Madhya Pradesh,20,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,3,30
+38,Gitika Sharma,Urban,Rajasthan ,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,6,35
+39,shikha ,Urban,Madhya Pradesh,20,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,3,30
+40,Sakshi jadaun,Rural,Uttar Pradesh,15,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,23
+41,Shilpi yadav,,Uttar pradesh,21,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,28
+42,Leena katara,Urban,Rajasthan,23,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,29
+43,Arpita,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,28
+44,Parul janwat,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,7,30
+45,Shaloo arya,Urban,Rajasthan ,18,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,6,24
+46,Saloni ,Semi Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,25
+47,Muskan priya ,Urban,Bihar ,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,5,27
+48,Disha Pabri ,Urban,Rajasthan ,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),6,No,8,26
+49,Sakshi Sharma ,Urban,Rajasthan ,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,6,30
+50,Pragya Surana,Urban,Rajasthan,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,28
+51,Palak sharma,Semi Urban,Uttar pradesh,21,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,29
+52,Manvi,Urban,Rajasthan,19,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,6,35
+53,Priyanshi Verma ,Rural,Uttar Pradesh,17,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,3,31
+54,Prachi,Rural,Uttar Pradesh,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,28
+55,Shreya ,Semi Urban,Rajasthan,21,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,28
+56,Komal,Semi Urban,Jharkhand,18,Pad,Don't Know,Wrapping in paper/ Polythene,other,2,Yes,6,34
+57,Anushka,Urban,Bihar,17,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,30
+58,Sanskriti Agrawal,Urban,Rajasthan,22,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,30
+59,Apurva,Semi Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,3,28
+60,Tanu Agarwal,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,4,29
+61,Vanshika,Semi Urban,Rajasthan ,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,3,30
+62,Prashansa ,Urban,Uttar Pradesh ,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,4,30
+63,Yashika Singh,Urban,Uttar Pradesh,21,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+64,Archana Maheshwari,Urban,Madhya Pradesh,43,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,25
+65,Vijaylakshmi ,Urban,Rajasthan ,40,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,Yes,3,28
+66,Jiby,Urban,Rajasthan,40,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,28
+67,Anju Yadav,Urban,Uttar Pradesh,26,Pad,Don't Know,Wrapping in paper/ Polythene,other,2,Yes,5,28
+68,Khushi ,Rural,Uttar pradesh,16,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,8,25
+69,Anju beeyani,Urban,Rajasthan,42,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,3,25
+70,Kajal,Semi Urban,Uttar Pradesh,20,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,5,29
+71,Harshika,Rural,Uttar Pradesh,20,Pad,Bio degradable,Wrapping in paper/ Polythene,other,3,Yes,7,27
+72,Kanchan sengar,Urban,Uttar Pradesh,16,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,30
+73,Shivangi dixit,Urban,Rajasthan ,33,Menstrual cUttar Pradesh,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,6,28
+74,Ritu GUttar Pradeshta,Rural,Uttar Pradesh,22,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,2,30
+75,kanika Mathur,Urban,Rajasthan,22,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,4,40
+76,Shivangi Shukla,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,6,26
+77,Hiteshi,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,30
+78,Saba naaz,Urban,Uttar Pradesh,21,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,6,32
+79,Ritika yadav,Urban,Rajasthan,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,6,28
+80,Sk,Urban,Uttar Pradesh,22,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,7,25
+81,Ritu,Rural,Uttar Pradesh,19,Pad,Don't Know,Wrapping in paper/ Polythene,other,2,No,5,28
+82,Shivani Sharma,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,4,28
+83,PUSHPA KUMARI,Semi Urban,JHARKHAND,18,Pad,Bio degradable,Wrapping in paper/ Polythene,other,2,Yes,3,29
+84,Divyanshi Bhatt,Urban,Rajasthan,20,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,No,5,25
+85,Himani chauahn,Urban,Uttar Pradesh,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,7,25
+86,Anshita,Urban,Rajasthan,20,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,4,28
+87,Aashita Sharma,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,23
+88,Aditi,Urban,Uttar Pradesh,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,28
+89,Gayatri Kumari,Rural,Rajsthan,22,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,3,25
+90,Adeela Akhtar,Urban,Uttar Pradesh,22,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,5,29
+91,Ankita Singh,Urban,Uttar Pradesh.,21,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,30
+92,Sambhavi ,Urban,Bihar,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,21
+93,Aarti Tunnu singh,Urban,Maharashtra,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,3,24
+94,Harshita juneja,Semi Urban,Rajasthan,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,4,28
+95,Rinki nagar,Urban,Rajsthaan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,27
+96,Adhistha Meena,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,30
+97,Arti kumari,Urban,Bihar,17,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,4,25
+98,Swasti Sahewal ,Urban,Rajasthan ,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,Yes,4,30
+99,Shivi Agarwal,Semi Urban,Assam,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,5,25
+100,Suneeta yadav,Semi Urban,Uttar pradesh,30,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,5,27
+101,Aparna Singh,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,6,32
+102,Jyotsna ,Urban,Rajasthan ,17,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,7,22
+103,Yashi ,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,4,35
+104,Shivika yadav,Rural,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,28
+105,Kajal,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+106,Radha singh,Urban,Uttar Pradesh,13,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,8,24
+107,Lovely kasera,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,No,7,27
+108,Shubhangi sharna,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,25
+109,Unnati vainiwal,Rural,Uttar Pradesh,13,Pad,Don't Know,Wrapping in paper/ Polythene,other,4,Yes,5,27
+110,Khushi ,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,7,35
+111,Mumal,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,9,30
+112,Mamta,Rural,Uttar pradesh,15,Pad,Bio degradable,Wrapping in paper/ Polythene,other,2,Yes,4,30
+113,Tisha ,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,4,29
+114,Beenesh,Rural,Uttar Pradesh,14,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,30
+115,Gunjan Sharma,Rural,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,other,3,Yes,6,31
+116,Muskan kumari,Rural,Uttar pradesh,14,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,30
+117,Anju goyal,Urban,Rajasthan ,48,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,3,29
+118,Kajal kumari,Rural,Uttar Pradesh ,14,Pad,Don't Know,Pad Disposal Machine,Nagar nigam Dustbin,3,No,3,30
+119,Saniya vashistha,Urban,Uttar pradesh,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,3,30
+120,Bhawana,Urban,Haryana,20,Pad,Don't Know,Pad Disposal Machine,Nagar nigam Dustbin,3,No,4,30
+121,Charu goswami ,Urban,Uttar Pradesh,15,Pad,Don't Know,Pad Disposal Machine,Nagar nigam Dustbin,2,Yes,4,29
+122,Sujata,Rural,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,3,30
+123,Pulkit Vashistha,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,3,31
+124,Kashish Yadav ,Semi Urban,Bihar,22,Pad,Don't Know,Wrapping in paper/ Polythene,other,2,Yes,4,32
+125,Nidhi Patel,Semi Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,6,31
+126,Shivani ,Urban,Bihar,22,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,4,24
+127,Shruti Jain,Semi Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,31
+128,Jyoti ,Urban,U. P,25,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,6,30
+129,Yashika ,Urban,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,27
+130,Ashna kati,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+131,Muskan Kumari ,Urban,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,32
+132,Vanshika,Semi Urban,Rajasthan ,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,3,30
+133,Sriparna Sahoo,Urban,Odisha,17,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,30
+134,Kaushiki,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,No,7,29
+135,Kanishka bhargava ,Urban,Rajasthan ,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,6,21
+136,Kanchan,Semi Urban,Uttar Pradesh,21,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,26
+137,Samridhi Sharma,Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,4,35
+138,Chinmayee Satapathy ,Urban,Odisha,18,Pad,Non degradable,Wrapping in paper/ Polythene,other,4,No,5,30
+139,divyani Verma ,Urban,uttar pradesh ,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,5,27
+140,Neetika,Urban,Rajasthan ,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,28
+141,Neetika,Urban,Rajasthan ,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,28
+142,Shiksha ,Rural,Uttar Pradesh ,21,Pad,Don't Know,Wrapping in paper/ Polythene,other,3,Yes,5,30
+143,Riya jain,Urban,Rajasthan,19,Pad,Non degradable,Wrapping in paper/ Polythene,other,3,Yes,4,31
+144,Vanshika ,Urban,Rajasthan ,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,7,30
+145,Ananya,Urban,Bihar,20,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,26
+146,Shubhangee shukla,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,1,28
+147,Madhavi Sisodiya,Rural,Uttar Pradesh,14,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+148,Pallavi chauhan,Rural,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+149,nikita,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,27
+150,Sanjana diahwar,Rural,Uttar Pradesh,15,Pad,Don't Know,Pad Disposal Machine,Nagar nigam Dustbin,2,Yes,3,25
+151,Medha Dixit,Urban,Uttar Pradesh,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,6,Yes,5,30
+152,Anushka Singh ,Urban,Uttar Pradesh ,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,6,20
+153,Anushka jain,Semi Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,30
+154,Shagun Kushwah,Urban,Uttar Pradesh,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,27
+155,Suhani lodha ,Semi Urban,Rajasthan ,17,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,6,29
+156,Tanishka Agarwal,,Rajasthan,16,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,6,33
+157,Anshi Kushwaha,Urban,Uttar Pradesh,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,30
+158,Ritu,Urban,Uttar Pradesh,19,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,4,29
+159,Samiksha,Rural,Uttar Pradesh,17,Pad,Don't Know,Wrapping in paper/ Polythene,other,2,Yes,5,30
+160,Arju,Urban,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,3,29
+161,Nayanshi varshney,Urban,Uttar Pradesh,22,Pad,Non degradable,Wrapping in paper/ Polythene,other,3,Yes,6,25
+162,Siddhi ,Semi Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,6,30
+163,Astha Ojha,Rural,Uttar Pradesh,20,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,30
+164,Jagrati,Urban,Uttar Pradesh,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,3,27
+165,Shilangna,Rural,Uttar Pradesh,21,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,4,29
+166,Nandini mamodiya,Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,6,26
+167,Chahat Panigrahi,Semi Urban,Odisha,16,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,25
+168,Sanskriti Dadheech,Urban,Rajasthan,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,7,25
+169,Charu gUttar Pradeshta,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,30
+170,Aachal,Semi Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,27
+171,Priya,Rural,Uttar Pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,28
+172,Aanchal garg,Urban,Madhya Pradesh,19,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,9,No,5,33
+173,Deepika Mishra,Semi Urban,Rajasthan,40,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,28
+174,Harshita sharma,Urban,Near khetan Hospital,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),5,Yes,5,29
+175,Sonali Saxena,Urban,Uttar Pradesh,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),7,Yes,5,28
+176,Aditi Dubey,Semi Urban,Uttar pradesh,16,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,4,30
+177,Mansi BhUttar Pradeshesh,Urban,Rajasthan,23,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,No,4,28
+178,Mansi Sisodiya,Rural,Utter Pradesh,16,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,28
+179,Sulochana,Urban,Uttar Pradesh.,26,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,28
+180,koushiki,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,7,No,6,30
+181,Priya sharma,Urban,Chhattisgard,21,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,2,28
+182,RITISHA MATHUR,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,26
+183,Khushaboo,Rural,Utar Pradesh,12,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,4,30
+184,Yamini Chauhan,Rural,Uttar Pradesh,12,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,No,7,28
+185,Diksha mathur,Urban,Rajasthan ,27,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),2,Yes,5,28
+186,Divya Rana,Rural,Uttar Pradesh,15,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,3,27
+187,Payal Mathur,Urban,Rajasthan,22,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,7,29
+188,Vidushi Mathur,Urban,Rajasthan,21,Pad,Non degradable,Wrapping in paper/ Polythene,other,3,Yes,6,28
+189,KANISHKA YADAV,Urban,Uttar Pradesh,13,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,5,29
+190,RUttar Pradesha,Urban,Uttar Pradesh,20,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,2,29
+191,RITISHA MATHUR,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,5,27
+192,Samarpita,Semi Urban,Uttar Pradesh,26,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,No,5,28
+193,Drjyoti saini,Urban,Rajasthan,35,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,5,Yes,7,27
+194,Renu Dhariwal,Semi Urban,Uttar Pradesh,28,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,3,28
+195,Manisha chaudhary,Rural,Uttar pradesh,17,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,32
+196,Natasha Rathore,Semi Urban,Rajasthan,22,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,28
+197,Sapna rajput ,Rural,Uttar pradesh,20,Pad,Don't Know,Wrapping in paper/ Polythene,other,4,Yes,2,28
+198,Sandhya baghel,Urban,Uttar Pradesh,17,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,5,29
+199,Justy Chauhan,Urban,HARYANA,24,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,Yes,4,30
+200,Tulsi,Rural,Uttar Pradesh,17,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,5,28
+201,ayushi mathur,Urban,Rajasthan,20,Pad,Bio degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,No,5,27
+202,AYUSHI GOYAL,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,Yes,5,25
+203,Vandana Kashyap,Urban,Rajasthan,39,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,5,30
+204,Neha,Urban,Rajasthan,32,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,7,25
+205,Ruchi,Urban,Rajasthan,40,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,Yes,2,30
+206,Radhika Khandelwal ,Urban,Rajasthan ,18,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,No,4,26
+207,Khushi Rohilla,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,6,27
+208,Manisha,Urban,Delhi,20,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,6,23
+209,Megha khangarot,Urban,Rajasthan,17,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,7,27
+210,Pritika Choudhary,Urban,Rajasthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,30
+211,Vrati,Urban,Rajasthan,18,Pad,Non degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,3,Yes,5,32
+212,Ambika,Rural,Rajsthan,18,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,Yes,4,30
+213,Charvi,Urban,Rajasthan,18,Pad,Bio degradable,Wrapping in paper/ Polythene,Nagar nigam Dustbin,4,Yes,6,32
+214,Nikita Toshwal,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,6,45
+215,Nikita Toshwal,Urban,Rajasthan,19,Pad,Don't Know,Wrapping in paper/ Polythene,Nagar nigam Dustbin,2,No,6,45
+216,Laxmi soyal,Semi Urban,Rajsthan,20,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,Yes,5,30
+217,Pooja sain,Urban,Rajasthan ,23,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),1,No,4,30
+218,Akshima Rawat,Urban,Rajasthan,19,Pad,Non degradable,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),3,No,6,60
+219,Tanisha ,Urban,Rajasthan ,18,Pad,Don't Know,Wrapping in paper/ Polythene,Swach Bharat van(Swach Bharat van),4,Yes,7,28
